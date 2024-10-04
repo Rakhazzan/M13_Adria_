@@ -3,7 +3,7 @@ import mysql.connector
 from mysql.connector import Error
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
-
+#
 # Configura les teves API keys
 API_KEY_OPENWEATHER = '9e861594dcc5aae42068292ef836f318'
 API_KEY_TELEGRAM = '7750424681:AAHBQ8BGfHf6-pv2r6dWY9Gos0OzGnYLXcc'
